@@ -1,0 +1,124 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\maili\\github\\anagram\\anagram.solution\\anagram.tests\\Model.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\maili\\github\\anagram\\anagram.solution\\anagram.tests\\Model.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\maili\\github\\anagram\\anagram.solution\\anagram.tests\\Model.Tests.csproj",
+        "projectName": "Model.Tests",
+        "projectPath": "C:\\Users\\maili\\github\\anagram\\anagram.solution\\anagram.tests\\Model.Tests.csproj",
+        "packagesPath": "C:\\Users\\maili\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\maili\\github\\anagram\\anagram.solution\\anagram.tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\maili\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\maili\\github\\anagram\\anagram.solution\\Anagram\\Anangram.csproj": {
+                "projectPath": "C:\\Users\\maili\\github\\anagram\\anagram.solution\\Anagram\\Anangram.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.0.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\maili\\github\\anagram\\anagram.solution\\Anagram\\Anangram.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\maili\\github\\anagram\\anagram.solution\\Anagram\\Anangram.csproj",
+        "projectName": "Anangram",
+        "projectPath": "C:\\Users\\maili\\github\\anagram\\anagram.solution\\Anagram\\Anangram.csproj",
+        "packagesPath": "C:\\Users\\maili\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\maili\\github\\anagram\\anagram.solution\\Anagram\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\maili\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

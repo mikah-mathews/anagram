@@ -1,0 +1,17 @@
+C:\Users\maili\github\anagram\anagram.solution\anagram.tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\maili\github\anagram\anagram.solution\anagram.tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\maili\github\anagram\anagram.solution\anagram.tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\maili\github\anagram\anagram.solution\anagram.tests\bin\Debug\netcoreapp2.2\Model.Tests.deps.json
+C:\Users\maili\github\anagram\anagram.solution\anagram.tests\bin\Debug\netcoreapp2.2\Model.Tests.runtimeconfig.json
+C:\Users\maili\github\anagram\anagram.solution\anagram.tests\bin\Debug\netcoreapp2.2\Model.Tests.runtimeconfig.dev.json
+C:\Users\maili\github\anagram\anagram.solution\anagram.tests\bin\Debug\netcoreapp2.2\Model.Tests.dll
+C:\Users\maili\github\anagram\anagram.solution\anagram.tests\bin\Debug\netcoreapp2.2\Model.Tests.pdb
+C:\Users\maili\github\anagram\anagram.solution\anagram.tests\bin\Debug\netcoreapp2.2\Anangram.dll
+C:\Users\maili\github\anagram\anagram.solution\anagram.tests\bin\Debug\netcoreapp2.2\Anangram.pdb
+C:\Users\maili\github\anagram\anagram.solution\anagram.tests\obj\Debug\netcoreapp2.2\Model.Tests.csprojAssemblyReference.cache
+C:\Users\maili\github\anagram\anagram.solution\anagram.tests\obj\Debug\netcoreapp2.2\Model.Tests.csproj.CoreCompileInputs.cache
+C:\Users\maili\github\anagram\anagram.solution\anagram.tests\obj\Debug\netcoreapp2.2\Model.Tests.AssemblyInfoInputs.cache
+C:\Users\maili\github\anagram\anagram.solution\anagram.tests\obj\Debug\netcoreapp2.2\Model.Tests.AssemblyInfo.cs
+C:\Users\maili\github\anagram\anagram.solution\anagram.tests\obj\Debug\netcoreapp2.2\Model.Tests.csproj.CopyComplete
+C:\Users\maili\github\anagram\anagram.solution\anagram.tests\obj\Debug\netcoreapp2.2\Model.Tests.dll
+C:\Users\maili\github\anagram\anagram.solution\anagram.tests\obj\Debug\netcoreapp2.2\Model.Tests.pdb
